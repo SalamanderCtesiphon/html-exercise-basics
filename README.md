@@ -1,2 +1,2 @@
-# html-exercise-basics
-redoing the first html exercise for the Odin Project
+Decided to re-do the intial html exercises inorder to gain a better 
+understanding of the language, and to reenforce the basic syntax.
