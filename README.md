@@ -1,2 +1,3 @@
-Decided to re-do the intial html exercises inorder to gain a better 
-understanding of the language, and to reenforce the basic syntax.
+The Introduction to HTML and CSS lesson from THE ODIN PROJECT'S foundations course.
+
+https://www.theodinproject.com/lessons/foundations-introduction-to-html-and-css
